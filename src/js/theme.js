@@ -25,11 +25,11 @@ const colorSets = [
 		"--background-color": "#1a1b26",
 	},
 	{
-		"--text-color": "#E6E4E9",
+		"--text-color": "#e6e4e9",
 		"--hover-color": "#333083",
-		"--accent-color": "#00509D",
-		"--accent-color-2": "#131F5D",
-		"--background-color": "#18172A",
+		"--accent-color": "#00509d",
+		"--accent-color-2": "#131f5d",
+		"--background-color": "#18172a",
 	},
 ];
 

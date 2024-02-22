@@ -1,7 +1,7 @@
 let currentIndex = localStorage.getItem("currentIndex") || document.currentScript.getAttribute('currentIndex');
 currentIndex = parseInt(currentIndex);
 
-const images = ["cover1.webp", "cover2.webp", "cover3.webp"];
+const images = ["cover1.webp", "cover2.webp", "cover3.webp", "cover4.webp"];
 const colorSets = [
 	{
 		"--text-color": "#c0caf5",
@@ -23,6 +23,13 @@ const colorSets = [
 		"--accent-color": "#7aa2f7",
 		"--accent-color-2": "#bb9af7",
 		"--background-color": "#1a1b26",
+	},
+	{
+		"--text-color": "#E6E4E9",
+		"--hover-color": "#333083",
+		"--accent-color": "#00509D",
+		"--accent-color-2": "#131F5D",
+		"--background-color": "#18172A",
 	},
 ];
 

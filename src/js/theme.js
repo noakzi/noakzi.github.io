@@ -28,9 +28,9 @@ const colorSets = [
 		"--text-color": "#e6e4e9",
 		"--hover-color": "#333083",
 		"--accent-color": "#00509d",
-		"--accent-color-2": "#131f5d",
+		"--accent-color-2": "#dbd8df",
 		"--background-color": "#18172a",
-	},
+	},DBD8DF
 ];
 
 function preloadImages() {

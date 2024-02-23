@@ -30,7 +30,7 @@ const colorSets = [
 		"--accent-color": "#00509d",
 		"--accent-color-2": "#dbd8df",
 		"--background-color": "#18172a",
-	},DBD8DF
+	},
 ];
 
 function preloadImages() {
